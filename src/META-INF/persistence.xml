@@ -4,7 +4,7 @@
 		<class>entities.User</class>
 		<class>entities.Role</class>
 		<properties>
-			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/PracticoTSI"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:postgresql://186.55.87.63:5432/PracticoTSI"/>
 			<property name="javax.persistence.jdbc.user" value="postgres"/>
 			<property name="javax.persistence.jdbc.password" value="admin"/>
 			<property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
